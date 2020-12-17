@@ -305,6 +305,7 @@
       <workItem from="1608204222940" duration="266000" />
       <workItem from="1608204512045" duration="350000" />
       <workItem from="1608204875140" duration="277000" />
+      <workItem from="1608205163615" duration="651000" />
     </task>
     <servers />
   </component>
@@ -360,18 +361,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1608204206212" />
+    <state x="761" y="313" key="git4idea.merge.GitMergeDialog" timestamp="1608205581482">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="313" key="git4idea.merge.GitMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608205581482" />
     <state x="1273" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1608204472210">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1273" y="389" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608204472210" />
-    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608204860155">
+    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608205381905">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608204860155" />
-    <state x="1254" y="422" key="git4idea.ui.GitResetDialog" timestamp="1608203708207">
+    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608205381905" />
+    <state x="1254" y="422" key="git4idea.ui.GitResetDialog" timestamp="1608205723893">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1254" y="422" key="git4idea.ui.GitResetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608203708207" />
+    <state x="1254" y="422" key="git4idea.ui.GitResetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608205723893" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
