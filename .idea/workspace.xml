@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report_Ravshan_Khamidov.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Admin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Connector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Connector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Controller$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Greeting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/Registration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/style/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/style/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/templates/greeting.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/templates/greeting.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lito/sample/templates/main_page.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lito/sample/templates/main_page.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/style/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/style/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/templates/greeting.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/templates/greeting.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/templates/main_page.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/templates/main_page.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +136,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -314,21 +301,37 @@
       <workItem from="1608202358584" duration="24000" />
       <workItem from="1608202408052" duration="9000" />
       <workItem from="1608202453162" duration="44000" />
+      <workItem from="1608202543319" duration="1666000" />
+      <workItem from="1608204222940" duration="266000" />
+      <workItem from="1608204512045" duration="350000" />
+      <workItem from="1608204875140" duration="277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1608200896997">
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1608203727893">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608200896997" />
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608203727893" />
     <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1608202496859">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -345,6 +348,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608202496859" />
+    <state x="1258" y="248" key="RollbackChangesDialog" timestamp="1608203741970">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1258" y="248" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608203741970" />
+    <state x="631" y="175" key="SettingsEditor" timestamp="1608203660574">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="631" y="175" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1608203660574" />
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1608204206212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1608204206212" />
+    <state x="1273" y="389" key="git4idea.rebase.GitRebaseDialog" timestamp="1608204472210">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1273" y="389" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608204472210" />
+    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608204860155">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1230" y="182" width="594" height="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608204860155" />
+    <state x="1254" y="422" key="git4idea.ui.GitResetDialog" timestamp="1608203708207">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1254" y="422" key="git4idea.ui.GitResetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1608203708207" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
