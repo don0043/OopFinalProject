@@ -52,7 +52,7 @@ public class Login {
                     stage.close();
                     Stage primaryStage = new Stage();
                     Parent root = FXMLLoader.load(getClass().getResource("templates/admin.fxml"));
-                    primaryStage.setTitle("Hello,I'm LITO");
+                    primaryStage.setTitle("Snus");
                     primaryStage.setScene(new Scene(root, 685, 400));
                     primaryStage.show();
 
@@ -67,7 +67,7 @@ public class Login {
                         stage.close();
                         Stage primaryStage = new Stage();
                         Parent root = FXMLLoader.load(getClass().getResource("templates/main_page.fxml"));
-                        primaryStage.setTitle("Hello,I'm LITO");
+                        primaryStage.setTitle("Snus");
                         primaryStage.setScene(new Scene(root, 685, 400));
                         primaryStage.show();
 
@@ -113,7 +113,7 @@ public class Login {
         stage.close();
         Stage primaryStage = new Stage();
         Parent root = FXMLLoader.load(getClass().getResource("templates/greeting.fxml"));
-        primaryStage.setTitle("Hello,I'm LITO");
+        primaryStage.setTitle("Snus");
         primaryStage.setScene(new Scene(root, 685, 400));
         primaryStage.show();
     }

@@ -9,9 +9,9 @@
 
 <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="684.0" styleClass="main_bg" stylesheets="@../style/style.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Greeting">
    <children>
-      <Label layoutX="185.0" layoutY="42.0" prefHeight="77.0" prefWidth="310.0" style="-fx-background-color: #3c89d0;" text="Welcome to LITO" textFill="WHITE">
+      <Label layoutX="185.0" layoutY="42.0" prefHeight="77.0" prefWidth="310.0" style="-fx-background-color: DC9C8E;" text="  SNUS" textFill="WHITE">
          <font>
-            <Font name="Yrsa Bold" size="35.0" />
+            <Font name="System Italic" size="64.0" />
          </font>
          <padding>
             <Insets left="40.0" />
