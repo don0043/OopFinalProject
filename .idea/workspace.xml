@@ -10,7 +10,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="don0043" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="OopFinalProject" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/don0043/OopFinalProject" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1lmdL8bTdq4eZxdWZX1N4MJkrFi" />
   <component name="ProjectViewState">
@@ -60,37 +77,74 @@
       <option name="project" value="LOCAL" />
       <updated>1608206296220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added all files">
+      <created>1608206583302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608206583302</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added all files">
+      <created>1608206633426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608206633426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added all files" />
     <option name="LAST_COMMIT_MESSAGE" value="added all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="515" y="36" key="CommitChangelistDialog2" timestamp="1608206581719">
+    <state x="426" y="98" key="#Notifications" timestamp="1608206744371">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state x="515" y="36" key="CommitChangelistDialog2/0.0.1600.856@0.0.1600.856" timestamp="1608206581719" />
-    <state width="1035" height="216" key="GridCell.Tab.0.bottom" timestamp="1608206299817">
+    <state x="426" y="98" key="#Notifications/0.0.1600.856@0.0.1600.856" timestamp="1608206744371" />
+    <state x="515" y="36" key="CommitChangelistDialog2" timestamp="1608206631891">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state width="1035" height="216" key="GridCell.Tab.0.bottom/0.0.1600.856@0.0.1600.856" timestamp="1608206299817" />
-    <state width="1035" height="216" key="GridCell.Tab.0.center" timestamp="1608206299817">
+    <state x="515" y="36" key="CommitChangelistDialog2/0.0.1600.856@0.0.1600.856" timestamp="1608206631891" />
+    <state x="623" y="307" key="Github.CreatePullRequestDialog" timestamp="1608206768116">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state width="1035" height="216" key="GridCell.Tab.0.center/0.0.1600.856@0.0.1600.856" timestamp="1608206299817" />
-    <state width="1035" height="216" key="GridCell.Tab.0.left" timestamp="1608206299817">
+    <state x="623" y="307" key="Github.CreatePullRequestDialog/0.0.1600.856@0.0.1600.856" timestamp="1608206768116" />
+    <state width="1035" height="216" key="GridCell.Tab.0.bottom" timestamp="1608206832111">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state width="1035" height="216" key="GridCell.Tab.0.left/0.0.1600.856@0.0.1600.856" timestamp="1608206299817" />
-    <state width="1035" height="216" key="GridCell.Tab.0.right" timestamp="1608206299817">
+    <state width="1035" height="216" key="GridCell.Tab.0.bottom/0.0.1600.856@0.0.1600.856" timestamp="1608206832111" />
+    <state width="1035" height="216" key="GridCell.Tab.0.center" timestamp="1608206832111">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state width="1035" height="216" key="GridCell.Tab.0.right/0.0.1600.856@0.0.1600.856" timestamp="1608206299817" />
-    <state x="441" y="172" key="Vcs.Push.Dialog.v2" timestamp="1608206592188">
+    <state width="1035" height="216" key="GridCell.Tab.0.center/0.0.1600.856@0.0.1600.856" timestamp="1608206832111" />
+    <state width="1035" height="216" key="GridCell.Tab.0.left" timestamp="1608206832111">
       <screen x="0" y="0" width="1600" height="856" />
     </state>
-    <state x="441" y="172" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1608206592188" />
+    <state width="1035" height="216" key="GridCell.Tab.0.left/0.0.1600.856@0.0.1600.856" timestamp="1608206832111" />
+    <state width="1035" height="216" key="GridCell.Tab.0.right" timestamp="1608206832111">
+      <screen x="0" y="0" width="1600" height="856" />
+    </state>
+    <state width="1035" height="216" key="GridCell.Tab.0.right/0.0.1600.856@0.0.1600.856" timestamp="1608206832111" />
+    <state x="441" y="172" key="Vcs.Push.Dialog.v2" timestamp="1608206639347">
+      <screen x="0" y="0" width="1600" height="856" />
+    </state>
+    <state x="441" y="172" key="Vcs.Push.Dialog.v2/0.0.1600.856@0.0.1600.856" timestamp="1608206639347" />
+    <state x="542" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1608207083798">
+      <screen x="0" y="0" width="1600" height="856" />
+    </state>
+    <state x="542" y="264" key="com.intellij.ide.util.TipDialog/0.0.1600.856@0.0.1600.856" timestamp="1608207083798" />
   </component>
 </project>
