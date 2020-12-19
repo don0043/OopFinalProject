@@ -2,7 +2,7 @@
 ### Team members:
 Daniiar Arkabaev,
 Ravshan Khamidov,
-Kamaldin Khuzhmaberdiev
+Komoldin Khuzhmaberdiev
 <hr>
 
 
