@@ -1,6 +1,7 @@
 # OopFinalProject
-###Welcome page
-![Снимок 1](https://user-images.githubusercontent.com/49878695/102628966-b8f4e100-4174-11eb-9e0e-e9c738505162.PNG)
+Welcome page
+
+![](https://user-images.githubusercontent.com/49878695/102628966-b8f4e100-4174-11eb-9e0e-e9c738505162.PNG)
 2
 ![Снимок 2](https://user-images.githubusercontent.com/49878695/102628971-ba260e00-4174-11eb-82b5-a45988480d09.PNG)
 3
