@@ -1,7 +1,8 @@
 # OopFinalProject
 ### Team members:
 Daniiar Arkabaev,
-Ravshan Khamidov
+Ravshan Khamidov,
+Kamaldin Khuzhmaberdiev
 <hr>
 
 
