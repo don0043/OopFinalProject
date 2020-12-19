@@ -1,12 +1,9 @@
 # OopFinalProject
 
-[1Welcome page]
+1
 ![Снимок 1](https://user-images.githubusercontent.com/49878695/102628966-b8f4e100-4174-11eb-9e0e-e9c738505162.PNG)
-<hr>
-
 2
 ![Снимок 2](https://user-images.githubusercontent.com/49878695/102628971-ba260e00-4174-11eb-82b5-a45988480d09.PNG)
-<hr>
 3
 ![Снимок 3](https://user-images.githubusercontent.com/49878695/102628972-babea480-4174-11eb-9691-fa1285f9b5c1.PNG)
 4
